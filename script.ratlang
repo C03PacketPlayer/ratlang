@@ -1,0 +1,8 @@
+public class Example
+	DEFINE text as string
+	void Main
+		text = "Hello World"
+		MsgBox(text)
+	End void
+
+End Class
